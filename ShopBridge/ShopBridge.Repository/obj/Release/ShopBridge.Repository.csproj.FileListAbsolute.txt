@@ -1,0 +1,15 @@
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Repository.dll.config
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Repository.dll
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Repository.pdb
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\EntityFramework.dll
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Data.dll
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Data.pdb
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\ShopBridge.Data.dll.config
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\EntityFramework.xml
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\obj\Release\ShopBridge.Repository.csprojAssemblyReference.cache
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\obj\Release\ShopBridge.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\obj\Release\ShopBridge.Repository.csproj.CopyComplete
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\obj\Release\ShopBridge.Repository.dll
+C:\Users\kalyanik\source\repos\ShopBridge\ShopBridge.Repository\obj\Release\ShopBridge.Repository.pdb
